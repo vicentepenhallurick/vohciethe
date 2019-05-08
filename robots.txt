@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neuzoocaej.markdown-syntax.de/sitemap.xml
